@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "fullName": "Deepanshi Choudhary",
+    "email": "iec2022013@iiita.ac.in",
+    "mobile": "+91-7906853153",
+    "password": "password123"
+  },
+  {
+    "id": "2",
+    "fullName": "Dimple Bhondekar",
+    "email": "iit2022022@iiita.ac.in",
+    "mobile": "+91-7972920270",
+    "password": "password123"
+  },
+  {
+    "id": "3",
+    "fullName": "Poonam Gate",
+    "email": "iec2022087@iiita.ac.in",
+    "mobile": "+91-8824699335",
+    "password": "password123"
+  },
+  {
+    "id": "4",
+    "fullName": "dimple",
+    "email": "dimplebhon910@gmail.com",
+    "mobile": "6776546895",
+    "password": "dimple"
+  },
+  {
+    "id": "5",
+    "fullName": "poonam gate",
+    "email": "gatepoonam871@gmail.com",
+    "mobile": "8824699335",
+    "password": "poonam"
+  },
+  {
+    "id": "6",
+    "fullName": "Deepanshi Choudhary",
+    "email": "deepanshichoudhary03@gmail.com",
+    "mobile": "7906853153",
+    "password": "Anita@1999"
+  },
+  {
+    "id": "7",
+    "fullName": "Deepti ",
+    "email": "deepanshichoudhary325@gmail.com",
+    "mobile": "8384812101",
+    "password": "Anita@1999"
+  },
+  {
+    "id": "8",
+    "fullName": "Harsh Choudhary",
+    "email": "deepanshichoudhary07@gmail.com",
+    "mobile": "9548651946",
+    "password": "Riya@2004"
+  },
+  {
+    "id": "9",
+    "fullName": "vijay",
+    "email": "mohitgate871@gmail.com",
+    "mobile": "7972920270",
+    "password": "dimple"
+  }
+]

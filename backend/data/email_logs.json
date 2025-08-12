@@ -1,0 +1,602 @@
+[
+  {
+    "id": "email_4429",
+    "complaint_id": "JANAI-36404",
+    "to": "garbage@examplecity.gov.in",
+    "subject": "New Complaint: Garbage",
+    "body": "Complaint Description:\n\njuhygtfrdes",
+    "timestamp": "2025-08-05T02:39:51.797732",
+    "status": "sent",
+    "type": "complaint_notification"
+  },
+  {
+    "id": "email_1022",
+    "complaint_id": "JANAI-36404",
+    "to": "deepanshi.c@example.com",
+    "subject": "Complaint Confirmation: JANAI-36404",
+    "body": "Your complaint has been received successfully.\n\nTracking ID: JANAI-36404\nCategory: Garbage\nDescription: juhygtfrdes\n\nOur team will process your complaint shortly.",
+    "timestamp": "2025-08-05T02:39:55.838564",
+    "status": "sent",
+    "type": "confirmation"
+  },
+  {
+    "id": "email_1992",
+    "complaint_id": "JANAI-27616",
+    "to": "sewage@examplecity.gov.in",
+    "subject": "New Complaint: Sewage",
+    "body": "Complaint Description:\n\niuytrd",
+    "timestamp": "2025-08-05T02:46:26.625888",
+    "status": "sent",
+    "type": "complaint_notification"
+  },
+  {
+    "id": "email_9754",
+    "complaint_id": "JANAI-27616",
+    "to": "dimplebhon910@gmail.com",
+    "subject": "Complaint Confirmation: JANAI-27616",
+    "body": "Your complaint has been received successfully.\n\nTracking ID: JANAI-27616\nCategory: Sewage\nDescription: iuytrd\n\nOur team will process your complaint shortly.",
+    "timestamp": "2025-08-05T02:46:30.828138",
+    "status": "sent",
+    "type": "confirmation"
+  },
+  {
+    "id": "email_5805",
+    "complaint_id": "JANAI-99233",
+    "to": "water@examplecity.gov.in",
+    "subject": "New Complaint: Water",
+    "body": "Complaint Description:\n\njkhgfdre",
+    "timestamp": "2025-08-05T02:50:09.057163",
+    "status": "sent",
+    "type": "complaint_notification"
+  },
+  {
+    "id": "email_4879",
+    "complaint_id": "JANAI-99233",
+    "to": "dimplebhon910@gmail.com",
+    "subject": "Complaint Confirmation: JANAI-99233",
+    "body": "Your complaint has been received successfully.\n\nTracking ID: JANAI-99233\nCategory: Water\nDescription: jkhgfdre\n\nOur team will process your complaint shortly.",
+    "timestamp": "2025-08-05T02:50:13.244620",
+    "status": "sent",
+    "type": "confirmation"
+  },
+  {
+    "id": "email_8873",
+    "complaint_id": "JANAI-39310",
+    "to": "roads@examplecity.gov.in",
+    "subject": "New Complaint: Roads",
+    "body": "Complaint Description:\n\niuygtfrdes",
+    "timestamp": "2025-08-05T02:52:18.486903",
+    "status": "sent",
+    "type": "complaint_notification"
+  },
+  {
+    "id": "email_2192",
+    "complaint_id": "JANAI-39310",
+    "to": "dimplebhon910@gmail.com",
+    "subject": "Complaint Confirmation: JANAI-39310",
+    "body": "Your complaint has been received successfully.\n\nTracking ID: JANAI-39310\nCategory: Roads\nDescription: iuygtfrdes\n\nOur team will process your complaint shortly.",
+    "timestamp": "2025-08-05T02:52:22.267341",
+    "status": "sent",
+    "type": "confirmation"
+  },
+  {
+    "id": "email_5419",
+    "complaint_id": "JANAI-08122",
+    "to": "sewage@examplecity.gov.in",
+    "subject": "New Complaint: Sewage",
+    "body": "Complaint Description:\n\nsdfg",
+    "timestamp": "2025-08-05T02:54:06.922648",
+    "status": "sent",
+    "type": "complaint_notification"
+  },
+  {
+    "id": "email_9081",
+    "complaint_id": "JANAI-08122",
+    "to": "dimplebhon910@gmail.com",
+    "subject": "Complaint Confirmation: JANAI-08122",
+    "body": "Your complaint has been received successfully.\n\nTracking ID: JANAI-08122\nCategory: Sewage\nDescription: sdfg\n\nOur team will process your complaint shortly.",
+    "timestamp": "2025-08-05T02:54:11.226909",
+    "status": "sent",
+    "type": "confirmation"
+  },
+  {
+    "id": "email_1492",
+    "complaint_id": "JANAI-01644",
+    "to": "water@examplecity.gov.in",
+    "subject": "New Complaint: Water",
+    "body": "Complaint Description:\n\nqwdefgrthyj",
+    "timestamp": "2025-08-05T02:57:12.354451",
+    "status": "sent",
+    "type": "complaint_notification"
+  },
+  {
+    "id": "email_3617",
+    "complaint_id": "JANAI-01644",
+    "to": "dimplebhon910@gmail.com",
+    "subject": "Complaint Confirmation: JANAI-01644",
+    "body": "Your complaint has been received successfully.\n\nTracking ID: JANAI-01644\nCategory: Water\nDescription: qwdefgrthyj\n\nOur team will process your complaint shortly.",
+    "timestamp": "2025-08-05T02:57:16.364896",
+    "status": "sent",
+    "type": "confirmation"
+  },
+  {
+    "id": "email_9208",
+    "complaint_id": "JANAI-94946",
+    "to": "electricity@examplecity.gov.in",
+    "subject": "New Complaint: Electricity",
+    "body": "Complaint Description:\n\nwdefrgth",
+    "timestamp": "2025-08-05T03:00:03.401766",
+    "status": "sent",
+    "type": "complaint_notification"
+  },
+  {
+    "id": "email_7113",
+    "complaint_id": "JANAI-94946",
+    "to": "dimplebhon910@gmail.com",
+    "subject": "Complaint Confirmation: JANAI-94946",
+    "body": "Your complaint has been received successfully.\n\nTracking ID: JANAI-94946\nCategory: Electricity\nDescription: wdefrgth\n\nOur team will process your complaint shortly.",
+    "timestamp": "2025-08-05T03:00:07.417687",
+    "status": "sent",
+    "type": "confirmation"
+  },
+  {
+    "id": "email_6218",
+    "complaint_id": "JANAI-37849",
+    "to": "dimplebhondekar@gmail.com",
+    "subject": "New Complaint: Sanitation",
+    "body": "Complaint Description:\n\njhyugtfr",
+    "timestamp": "2025-08-05T03:00:53.392477",
+    "status": "sent",
+    "type": "complaint_notification"
+  },
+  {
+    "id": "email_3967",
+    "complaint_id": "JANAI-37849",
+    "to": "dimplebhon910@gmail.com",
+    "subject": "Complaint Confirmation: JANAI-37849",
+    "body": "Your complaint has been received successfully.\n\nTracking ID: JANAI-37849\nCategory: Sanitation\nDescription: jhyugtfr\n\nOur team will process your complaint shortly.",
+    "timestamp": "2025-08-05T03:00:57.671274",
+    "status": "sent",
+    "type": "confirmation"
+  },
+  {
+    "id": "email_5658",
+    "complaint_id": "JANAI-60921",
+    "to": "roads@examplecity.gov.in",
+    "subject": "New Complaint: Roads",
+    "body": "Complaint Description:\n\njkhhytr",
+    "timestamp": "2025-08-05T03:03:12.249305",
+    "status": "sent",
+    "type": "complaint_notification"
+  },
+  {
+    "id": "email_2134",
+    "complaint_id": "JANAI-60921",
+    "to": "dimplebhon910@gmail.com",
+    "subject": "Complaint Confirmation: JANAI-60921",
+    "body": "Your complaint has been received successfully.\n\nTracking ID: JANAI-60921\nCategory: Roads\nDescription: jkhhytr\n\nOur team will process your complaint shortly.",
+    "timestamp": "2025-08-05T03:03:16.853576",
+    "status": "sent",
+    "type": "confirmation"
+  },
+  {
+    "id": "email_6868",
+    "complaint_id": "JANAI-69857",
+    "to": "gatepoonam871@gmail.com",
+    "subject": "New Complaint: Electricity",
+    "body": "Complaint Description:\n\niuiytrd",
+    "timestamp": "2025-08-05T03:03:53.436272",
+    "status": "sent",
+    "type": "complaint_notification"
+  },
+  {
+    "id": "email_3479",
+    "complaint_id": "JANAI-69857",
+    "to": "dimplebhon910@gmail.com",
+    "subject": "Complaint Confirmation: JANAI-69857",
+    "body": "Your complaint has been received successfully.\n\nTracking ID: JANAI-69857\nCategory: Electricity\nDescription: iuiytrd\n\nOur team will process your complaint shortly.",
+    "timestamp": "2025-08-05T03:03:57.367980",
+    "status": "sent",
+    "type": "confirmation"
+  },
+  {
+    "id": "email_9010",
+    "complaint_id": "JANAI-32626",
+    "to": "gatepoonam871@gmail.com",
+    "subject": "New Complaint: Garbage",
+    "body": "Complaint Description:\n\njuytrdesdfcgvhb\n\nAI-Generated Draft:\n\nSubject: Complaint regarding Garbage issue in Andhra Pradesh\n\nDear Garbage Department,\n\nI am writing to bring to your attention a garbage issue that requires immediate attention in our area.\n\nIssue Details:\n- Category: Garbage\n- Description: juytrdesdfcgvhb\n- Location: 67, raj nagar, advocate colony , PIN: 201001\n- Region: Andhra Pradesh\n\nPersonal Information:\n- Name: dimple\n- Contact: undefined\n- Email: dimplebhon910@gmail.com\n\nThis issue is affecting the daily lives of residents in our area and requires prompt action from your department. I kindly request you to investigate this matter and take necessary steps to resolve it at the earliest.\n\nI look forward to your response and action on this matter.\n\nThank you for your attention to this issue.\n\nBest regards,\ndimple\nundefined",
+    "timestamp": "2025-08-05T03:07:04.378190",
+    "status": "sent",
+    "type": "complaint_notification"
+  },
+  {
+    "id": "email_5212",
+    "complaint_id": "JANAI-32626",
+    "to": "dimplebhon910@gmail.com",
+    "subject": "Complaint Confirmation: JANAI-32626",
+    "body": "Your complaint has been received successfully.\n\nTracking ID: JANAI-32626\nCategory: Garbage\nDescription: juytrdesdfcgvhb\n\nOur team will process your complaint shortly.",
+    "timestamp": "2025-08-05T03:07:08.157268",
+    "status": "sent",
+    "type": "confirmation"
+  },
+  {
+    "id": "email_8809",
+    "complaint_id": "JANAI-25634",
+    "to": "garbage@examplecity.gov.in",
+    "subject": "New Complaint: Garbage",
+    "body": "Complaint Description:\n\ni have garbage near my home\n\nAI-Generated Draft:\n\nSubject: Complaint regarding Garbage issue in Andhra Pradesh\n\nDear Garbage Department,\n\nI am writing to bring to your attention a garbage issue that requires immediate attention in our area.\n\nIssue Details:\n- Category: Garbage\n- Description: i have garbage near my home\n- Location: 67, raj nagar, advocate colony , PIN: 201001\n- Region: Andhra Pradesh\n\nPersonal Information:\n- Name: poonam gate\n- Contact: 8824699335\n- Email: gatepoonam871@gmail.com\n\nThis issue is affecting the daily lives of residents in our area and requires prompt action from your department. I kindly request you to investigate this matter and take necessary steps to resolve it at the earliest.\n\nI look forward to your response and action on this matter.\n\nThank you for your attention to this issue.\n\nBest regards,\npoonam gate\n8824699335",
+    "timestamp": "2025-08-05T03:12:56.155126",
+    "status": "sent",
+    "type": "complaint_notification"
+  },
+  {
+    "id": "email_5018",
+    "complaint_id": "JANAI-25634",
+    "to": "gatepoonam871@gmail.com",
+    "subject": "Complaint Confirmation: JANAI-25634",
+    "body": "Your complaint has been received successfully.\n\nTracking ID: JANAI-25634\nCategory: Garbage\nDescription: i have garbage near my home\n\nOur team will process your complaint shortly.",
+    "timestamp": "2025-08-05T03:13:00.025383",
+    "status": "sent",
+    "type": "confirmation"
+  },
+  {
+    "id": "email_2355",
+    "complaint_id": "JANAI-97586",
+    "to": "dimplebhon910@gmai.com",
+    "subject": "New Complaint: Garbage",
+    "body": "Complaint Description:\n\nkiuytrdfcvg\n\nAI-Generated Draft:\n\nSubject: Complaint regarding Garbage issue in Andhra Pradesh\n\nDear Garbage Department,\n\nI am writing to bring to your attention a garbage issue that requires immediate attention in our area.\n\nIssue Details:\n- Category: Garbage\n- Description: kiuytrdfcvg\n- Location: 67, raj nagar, advocate colony , PIN: 201001\n- Region: Andhra Pradesh\n\nPersonal Information:\n- Name: poonam gate\n- Contact: 8824699335\n- Email: gatepoonam871@gmail.com\n\nThis issue is affecting the daily lives of residents in our area and requires prompt action from your department. I kindly request you to investigate this matter and take necessary steps to resolve it at the earliest.\n\nI look forward to your response and action on this matter.\n\nThank you for your attention to this issue.\n\nBest regards,\npoonam gate\n8824699335",
+    "timestamp": "2025-08-05T03:13:34.037229",
+    "status": "sent",
+    "type": "complaint_notification"
+  },
+  {
+    "id": "email_9091",
+    "complaint_id": "JANAI-97586",
+    "to": "gatepoonam871@gmail.com",
+    "subject": "Complaint Confirmation: JANAI-97586",
+    "body": "Your complaint has been received successfully.\n\nTracking ID: JANAI-97586\nCategory: Garbage\nDescription: kiuytrdfcvg\n\nOur team will process your complaint shortly.",
+    "timestamp": "2025-08-05T03:13:37.709999",
+    "status": "sent",
+    "type": "confirmation"
+  },
+  {
+    "id": "email_1169",
+    "complaint_id": "JANAI-83639",
+    "to": "dimplebhon910@gmail.com",
+    "subject": "New Complaint: Garbage",
+    "body": "Complaint Description:\n\ni have garbage near my room\n\nAI-Generated Draft:\n\nSubject: Complaint regarding Garbage issue in Andhra Pradesh\n\nDear Garbage Department,\n\nI am writing to bring to your attention a garbage issue that requires immediate attention in our area.\n\nIssue Details:\n- Category: Garbage\n- Description: i have garbage near my room\n- Location: 67, raj nagar, advocate colony , PIN: 201001\n- Region: Andhra Pradesh\n\nPersonal Information:\n- Name: poonam gate\n- Contact: 8824699335\n- Email: gatepoonam871@gmail.com\n\nThis issue is affecting the daily lives of residents in our area and requires prompt action from your department. I kindly request you to investigate this matter and take necessary steps to resolve it at the earliest.\n\nI look forward to your response and action on this matter.\n\nThank you for your attention to this issue.\n\nBest regards,\npoonam gate\n8824699335",
+    "timestamp": "2025-08-05T03:15:00.319746",
+    "status": "sent",
+    "type": "complaint_notification"
+  },
+  {
+    "id": "email_5889",
+    "complaint_id": "JANAI-83639",
+    "to": "gatepoonam871@gmail.com",
+    "subject": "Complaint Confirmation: JANAI-83639",
+    "body": "Your complaint has been received successfully.\n\nTracking ID: JANAI-83639\nCategory: Garbage\nDescription: i have garbage near my room\n\nOur team will process your complaint shortly.",
+    "timestamp": "2025-08-05T03:15:04.062434",
+    "status": "sent",
+    "type": "confirmation"
+  },
+  {
+    "id": "email_7218",
+    "complaint_id": "JANAI-59315",
+    "to": "dimplebhondekar@gmail.com",
+    "subject": "New Complaint: Electricity",
+    "body": "Complaint Description:\n\niuytresdxfcghjk\n\nDear Electricity Department,\n\nI am writing to bring to your attention a electricity issue that requires immediate attention in our area.\n\nIssue Details:\n- Category: Electricity\n- Description: iuytresdxfcghjk\n- Location: 67, raj nagar, advocate colony , PIN: 201001\n- Region: Andhra Pradesh\n\nPersonal Information:\n- Name: poonam gate\n- Contact: 8824699335\n- Email: gatepoonam871@gmail.com\n\nThis issue is affecting the daily lives of residents in our area and requires prompt action from your department. I kindly request you to investigate this matter and take necessary steps to resolve it at the earliest.\n\nI look forward to your response and action on this matter.\n\nThank you for your attention to this issue.\n\nBest regards,\npoonam gate\n8824699335",
+    "timestamp": "2025-08-05T03:17:44.093744",
+    "status": "sent",
+    "type": "complaint_notification"
+  },
+  {
+    "id": "email_3324",
+    "complaint_id": "JANAI-59315",
+    "to": "gatepoonam871@gmail.com",
+    "subject": "Complaint Confirmation: JANAI-59315",
+    "body": "Your complaint has been received successfully.\n\nTracking ID: JANAI-59315\nCategory: Electricity\nDescription: iuytresdxfcghjk\n\nOur team will process your complaint shortly.",
+    "timestamp": "2025-08-05T03:17:48.020081",
+    "status": "sent",
+    "type": "confirmation"
+  },
+  {
+    "id": "email_8545",
+    "complaint_id": "JANAI-73189",
+    "to": "sewage@examplecity.gov.in",
+    "subject": "New Complaint: Sewage",
+    "body": "Complaint Description:\n\n \u0905\u0917\u0930\u092a\u0923\u0947 \u092e\u094b\u0930 \u0907\u092e\u0947\u091c \u0905\u092a\u0932\u094b\u0921 \u0915\u0930\u0924\u0947 \u0939\u0948\u0902 \u0909\u0928\u0915\u094b \u091c\u093e\u0928. \u092e\u0947\u0932 \u0938\u0947\u0902\u0921 \u0915\u0930\u0924\u093e. \u092e\u0947\u0932 \u092e\u0947\u0938\u0947\u091c \u0915\u0930 \u0926\u0947\u0924\u093e. \u0907\u092e\u0947\u091c \u0936\u094b\u0927 \u0917\u093e\u0930\u094d\u092c\u0947\u091c \u0935\u0930 \u092b\u093e\u090a\u0902\u0921\u0947\u0936\u0928 \u090f\u0930\u093f\u092f\u093e. \u0936\u094d\u0930\u0940 \u092e\u0947\u0932 \u0906\u0908\u0921\u0940 \u092c\u094b\u0932\u0924\u0947 \u092a\u093e\u091a. \u0906\u0908 \u0938\u0940.\n\nDear Sewage Department,\n\nI am writing to bring to your attention a sewage issue that requires immediate attention in our area.\n\nIssue Details:\n- Category: Sewage\n- Description:  \u0905\u0917\u0930\u092a\u0923\u0947 \u092e\u094b\u0930 \u0907\u092e\u0947\u091c \u0905\u092a\u0932\u094b\u0921 \u0915\u0930\u0924\u0947 \u0939\u0948\u0902 \u0909\u0928\u0915\u094b \u091c\u093e\u0928. \u092e\u0947\u0932 \u0938\u0947\u0902\u0921 \u0915\u0930\u0924\u093e. \u092e\u0947\u0932 \u092e\u0947\u0938\u0947\u091c \u0915\u0930 \u0926\u0947\u0924\u093e. \u0907\u092e\u0947\u091c \u0936\u094b\u0927 \u0917\u093e\u0930\u094d\u092c\u0947\u091c \u0935\u0930 \u092b\u093e\u090a\u0902\u0921\u0947\u0936\u0928 \u090f\u0930\u093f\u092f\u093e.\n- Location: 67, raj nagar, advocate colony , PIN: 201001\n- Region: Andhra Pradesh\n\nPersonal Information:\n- Name: poonam gate\n- Contact: 8824699335\n- Email: gatepoonam871@gmail.com\n\nThis issue is affecting the daily lives of residents in our area and requires prompt action from your department. I kindly request you to investigate this matter and take necessary steps to resolve it at the earliest.\n\nI look forward to your response and action on this matter.\n\nThank you for your attention to this issue.\n\nBest regards,\npoonam gate\n8824699335",
+    "timestamp": "2025-08-05T03:27:42.388423",
+    "status": "sent",
+    "type": "complaint_notification"
+  },
+  {
+    "id": "email_2723",
+    "complaint_id": "JANAI-73189",
+    "to": "gatepoonam871@gmail.com",
+    "subject": "Complaint Confirmation: JANAI-73189",
+    "body": "Your complaint has been received successfully.\n\nTracking ID: JANAI-73189\nCategory: Sewage\nDescription:  \u0905\u0917\u0930\u092a\u0923\u0947 \u092e\u094b\u0930 \u0907\u092e\u0947\u091c \u0905\u092a\u0932\u094b\u0921 \u0915\u0930\u0924\u0947 \u0939\u0948\u0902 \u0909\u0928\u0915\u094b \u091c\u093e\u0928. \u092e\u0947\u0932 \u0938\u0947\u0902\u0921 \u0915\u0930\u0924\u093e. \u092e\u0947\u0932 \u092e\u0947\u0938\u0947\u091c \u0915\u0930 \u0926\u0947\u0924\u093e. \u0907\u092e\u0947\u091c \u0936\u094b\u0927 \u0917\u093e\u0930\u094d\u092c\u0947\u091c \u0935\u0930 \u092b\u093e\u090a\u0902\u0921\u0947\u0936\u0928 \u090f\u0930\u093f\u092f\u093e. \u0936\u094d\u0930\u0940 \u092e\u0947\u0932 \u0906\u0908\u0921\u0940 \u092c\u094b\u0932\u0924\u0947 \u092a\u093e\u091a. \u0906\u0908 \u0938\u0940.\n\nOur team will process your complaint shortly.",
+    "timestamp": "2025-08-05T03:27:45.855058",
+    "status": "sent",
+    "type": "confirmation"
+  },
+  {
+    "id": "email_7427",
+    "complaint_id": "JANAI-90501",
+    "to": "iec2022013@iiita.ac.in",
+    "subject": "New Complaint: Street Lights",
+    "body": "Complaint Description:\n\n \u092e\u093e\u091d\u094d\u092f\u093e \u0907\u0932\u093e\u0915\u093e \u0916\u0942\u092a \u091c\u093e\u0938\u094d\u0924 \u0917\u0930\u094d\u0926\u0940 \u0906\u0939\u0947 \u0906\u0923\u093f \u092e\u0932\u093e \u0924\u0947 \u0920\u0940\u0915 \u0928\u093e\u0939\u0940 \u0935\u093e\u091f\u0924.\n\nDear Street Lights Department,\n\nI am writing to bring to your attention a street lights issue that requires immediate attention in our area.\n\nIssue Details:\n- Category: Street Lights\n- Description:  \u092e\u093e\u091d\u094d\u092f\u093e \u0907\u0932\u093e\u0915\u093e \u0916\u0942\u092a \u091c\u093e\u0938\u094d\u0924 \u0917\u0930\u094d\u0926\u0940 \u0906\u0939\u0947 \u0906\u0923\u093f \u092e\u0932\u093e \u0924\u0947 \u0920\u0940\u0915 \u0928\u093e\u0939\u0940 \u0935\u093e\u091f\u0924.\n- Location: 67, raj nagar, advocate colony , PIN: 201001\n- Region: Andhra Pradesh\n\nPersonal Information:\n- Name: poonam gate\n- Contact: 8824699335\n- Email: gatepoonam871@gmail.com\n\nThis issue is affecting the daily lives of residents in our area and requires prompt action from your department. I kindly request you to investigate this matter and take necessary steps to resolve it at the earliest.\n\nI look forward to your response and action on this matter.\n\nThank you for your attention to this issue.\n\nBest regards,\npoonam gate\n8824699335",
+    "timestamp": "2025-08-05T03:28:34.610012",
+    "status": "sent",
+    "type": "complaint_notification"
+  },
+  {
+    "id": "email_1951",
+    "complaint_id": "JANAI-90501",
+    "to": "gatepoonam871@gmail.com",
+    "subject": "Complaint Confirmation: JANAI-90501",
+    "body": "Your complaint has been received successfully.\n\nTracking ID: JANAI-90501\nCategory: Street Lights\nDescription:  \u092e\u093e\u091d\u094d\u092f\u093e \u0907\u0932\u093e\u0915\u093e \u0916\u0942\u092a \u091c\u093e\u0938\u094d\u0924 \u0917\u0930\u094d\u0926\u0940 \u0906\u0939\u0947 \u0906\u0923\u093f \u092e\u0932\u093e \u0924\u0947 \u0920\u0940\u0915 \u0928\u093e\u0939\u0940 \u0935\u093e\u091f\u0924.\n\nOur team will process your complaint shortly.",
+    "timestamp": "2025-08-05T03:28:39.034379",
+    "status": "sent",
+    "type": "confirmation"
+  },
+  {
+    "id": "email_1300",
+    "complaint_id": "FEEDBACK",
+    "to": "deepanshichoudhary03@gmail.com",
+    "subject": "New Feedback - JANAI Application",
+    "body": "\nNew Feedback Received\n\nFrom: ytdtrfgh\nEmail: jhgyutrdxgfcg@gmail.com\nMessage: gtfre\n\nThis feedback was submitted through the JANAI application.\n\nBest regards,\nJANAI System\n        ",
+    "timestamp": "2025-08-05T03:32:16.473621",
+    "status": "sent",
+    "type": "feedback"
+  },
+  {
+    "id": "email_8123",
+    "complaint_id": "FEEDBACK",
+    "to": "deepanshichoudhary03@gmail.com",
+    "subject": "New Feedback - JANAI Application",
+    "body": "\nNew Feedback Received\n\nFrom: ytdtrfgh\nEmail: jhgyutrdxgfcg@gmail.com\nMessage: hbgvfcdxsfcvgb\n\nThis feedback was submitted through the JANAI application.\n\nBest regards,\nJANAI System\n        ",
+    "timestamp": "2025-08-05T03:33:57.579050",
+    "status": "sent",
+    "type": "feedback"
+  },
+  {
+    "id": "email_2346",
+    "complaint_id": "JANAI-85952",
+    "to": "water@examplecity.gov.in",
+    "subject": "New Complaint: Water",
+    "body": "Complaint Description:\n\nissue with the water supply.\n\nDear Water Department,\n\nI am writing to bring to your attention a water issue that requires immediate attention in our area.\n\nIssue Details:\n- Category: Water\n- Description: issue with the water supply.\n- Location: 67, raj nagar, advocate colony , PIN: 201001\n- Region: Uttar Pradesh\n\nPersonal Information:\n- Name: poonam gate\n- Contact: 8824699335\n- Email: gatepoonam871@gmail.com\n\nThis issue is affecting the daily lives of residents in our area and requires prompt action from your department. I kindly request you to investigate this matter and take necessary steps to resolve it at the earliest.\n\nI look forward to your response and action on this matter.\n\nThank you for your attention to this issue.\n\nBest regards,\npoonam gate\n8824699335",
+    "timestamp": "2025-08-05T04:16:28.835170",
+    "status": "sent",
+    "type": "complaint_notification"
+  },
+  {
+    "id": "email_4972",
+    "complaint_id": "JANAI-85952",
+    "to": "gatepoonam871@gmail.com",
+    "subject": "Complaint Confirmation: JANAI-85952",
+    "body": "Your complaint has been received successfully.\n\nTracking ID: JANAI-85952\nCategory: Water\nDescription: issue with the water supply.\n\nOur team will process your complaint shortly.",
+    "timestamp": "2025-08-05T04:16:33.404525",
+    "status": "sent",
+    "type": "confirmation"
+  },
+  {
+    "id": "email_8280",
+    "complaint_id": "JANAI-16752",
+    "to": "garbage@examplecity.gov.in",
+    "subject": "New Complaint: Garbage",
+    "body": "Complaint Description:\n\ngarbage issue near house \n\nTo the Garbage Department,\n\nI am writing to report a garbage management issue that demands prompt action in our neighborhood.\n\nIssue Details:\n- Category: Garbage\n- Description: garbage issue near house \n- Location: 67, raj nagar, advocate colony , PIN: 201001\n- Region: Uttar Pradesh\n\nPersonal Information:\n- Name: poonam gate\n- Contact: 8824699335\n- Email: gatepoonam871@gmail.com\n\nThe situation is causing significant inconvenience to the local community and needs immediate resolution. I trust you will investigate this matter thoroughly and implement a solution without delay.\n\nThank you for your attention to this issue.\n\nYours faithfully,\npoonam gate\n8824699335",
+    "timestamp": "2025-08-05T20:56:57.756006",
+    "status": "sent",
+    "type": "complaint_notification"
+  },
+  {
+    "id": "email_2674",
+    "complaint_id": "JANAI-16752",
+    "to": "gatepoonam871@gmail.com",
+    "subject": "Complaint Confirmation: JANAI-16752",
+    "body": "Your complaint has been received successfully.\n\nTracking ID: JANAI-16752\nCategory: Garbage\nDescription: garbage issue near house \n\nOur team will process your complaint shortly.",
+    "timestamp": "2025-08-05T20:57:02.275306",
+    "status": "sent",
+    "type": "confirmation"
+  },
+  {
+    "id": "email_9824",
+    "complaint_id": "JANAI-68917",
+    "to": "sewage@examplecity.gov.in",
+    "subject": "New Complaint: Sewage",
+    "body": "Complaint Description:\n\nSewage issue in front of my house.\n\nTo Whom It May Concern,\n\nI am writing to bring to your attention a sewage issue that requires immediate attention in our area.\n\nIssue Details:\n- Category: Sewage\n- Description: Sewage issue in front of my house.\n- Location: 13, Sector 23, Advocate Colony, Raj Nagar, PIN: 201001\n- Region: Uttar Pradesh\n\nPersonal Information:\n- Name: Deepanshi Choudhary\n- Contact: 7906853153\n- Email: deepanshichoudhary03@gmail.com\n\nThe issue is creating difficulties for the neighborhood and needs prompt intervention. I kindly request you to investigate this matter and take necessary steps to resolve it at the earliest.\n\nThank you for taking the time to address this concern.\n\nThank you,\nDeepanshi Choudhary\n7906853153",
+    "timestamp": "2025-08-05T21:04:57.789842",
+    "status": "sent",
+    "type": "complaint_notification"
+  },
+  {
+    "id": "email_2366",
+    "complaint_id": "JANAI-68917",
+    "to": "deepanshichoudhary03@gmail.com",
+    "subject": "Complaint Confirmation: JANAI-68917",
+    "body": "Your complaint has been received successfully.\n\nTracking ID: JANAI-68917\nCategory: Sewage\nDescription: Sewage issue in front of my house.\n\nOur team will process your complaint shortly.",
+    "timestamp": "2025-08-05T21:05:01.565227",
+    "status": "sent",
+    "type": "confirmation"
+  },
+  {
+    "id": "email_4087",
+    "complaint_id": "JANAI-01619",
+    "to": "garbage@examplecity.gov.in",
+    "subject": "New Complaint: Garbage",
+    "body": "Complaint Description:\n\ngarbage in pitholes.\n\nDear Garbage Department,\n\nI am writing to report a garbage management issue that demands prompt action in our neighborhood.\n\nIssue Details:\n- Category: Garbage\n- Description: garbage in pitholes.\n- Location: 13, Sector 23, Advocate Colony, Raj Nagar, PIN: 201001\n- Region: Uttar Pradesh\n\nPersonal Information:\n- Name: Deepanshi Choudhary\n- Contact: 7906853153\n- Email: deepanshichoudhary03@gmail.com\n\nThe issue is creating difficulties for the neighborhood and needs prompt intervention. I trust you will investigate this matter thoroughly and implement a solution without delay.\n\nThank you for your attention to this issue.\n\nThank you,\nDeepanshi Choudhary\n7906853153",
+    "timestamp": "2025-08-05T22:40:55.592077",
+    "status": "sent",
+    "type": "complaint_notification"
+  },
+  {
+    "id": "email_2320",
+    "complaint_id": "JANAI-01619",
+    "to": "deepanshichoudhary03@gmail.com",
+    "subject": "Complaint Confirmation: JANAI-01619",
+    "body": "Your complaint has been received successfully.\n\nTracking ID: JANAI-01619\nCategory: Garbage\nDescription: garbage in pitholes.\n\nOur team will process your complaint shortly.",
+    "timestamp": "2025-08-05T22:40:59.685198",
+    "status": "sent",
+    "type": "confirmation"
+  },
+  {
+    "id": "email_6425",
+    "complaint_id": "JANAI-81206",
+    "to": "electricity@examplecity.gov.in",
+    "subject": "New Complaint: Electricity",
+    "body": "Complaint Description:\n\nelectricity complain\n\nDear Electricity Department,\n\nI am writing to report a electricity problem that requires your immediate attention in our locality.\n\nIssue Details:\n- Category: Electricity\n- Description: electricity complain\n- Location: 67, raj nagar, advocate colony , PIN: 244221\n- Region: Delhi\n\nPersonal Information:\n- Name: Deepanshi Choudhary\n- Contact: 7906853153\n- Email: deepanshichoudhary03@gmail.com\n\nThis issue is affecting the daily lives of residents in our area and requires prompt action from your department. I hope you will give this issue the attention it deserves and resolve it quickly.\n\nI appreciate your time and consideration in this matter.\n\nThank you,\nDeepanshi Choudhary\n7906853153",
+    "timestamp": "2025-08-05T22:43:57.514841",
+    "status": "sent",
+    "type": "complaint_notification"
+  },
+  {
+    "id": "email_5600",
+    "complaint_id": "JANAI-81206",
+    "to": "deepanshichoudhary03@gmail.com",
+    "subject": "Complaint Confirmation: JANAI-81206",
+    "body": "Your complaint has been received successfully.\n\nTracking ID: JANAI-81206\nCategory: Electricity\nDescription: electricity complain\n\nOur team will process your complaint shortly.",
+    "timestamp": "2025-08-05T22:44:01.484614",
+    "status": "sent",
+    "type": "confirmation"
+  },
+  {
+    "id": "email_2481",
+    "complaint_id": "JANAI-99727",
+    "to": "garbage@examplecity.gov.in",
+    "subject": "New Complaint: Electricity",
+    "body": "Complaint Description:\n\ni hav eno electricity in my house\n\nDear Garbage Department,\n\nI am writing to report a garbage management issue that requires immediate attention in our neighborhood.\n\nIssue Details:\n- Category: Garbage\n- Description: garbage issue\n- Location: 67, raj nagar, advocate colony , PIN: 244221\n- Region: Delhi\n\nPersonal Information:\n- Name: Deepanshi Choudhary\n- Contact: 7906853153\n- Email: deepanshichoudhary03@gmail.com\n\nThis matter is affecting public welfare and requires immediate action from your department. I hope you will give this issue the attention it deserves and resolve it quickly.\n\nI look forward to your response and action on this matter.\n\nRespectfully yours,\nDeepanshi Choudhary\n7906853153",
+    "timestamp": "2025-08-07T21:58:31.753693",
+    "status": "sent",
+    "type": "complaint_notification"
+  },
+  {
+    "id": "email_9925",
+    "complaint_id": "JANAI-99727",
+    "to": "deepanshichoudhary03@gmail.com",
+    "subject": "Complaint Confirmation: JANAI-99727",
+    "body": "Your complaint has been received successfully.\n\nTracking ID: JANAI-99727\nCategory: Electricity\nDescription: i hav eno electricity in my house\n\nOur team will process your complaint shortly.",
+    "timestamp": "2025-08-07T21:58:35.929860",
+    "status": "sent",
+    "type": "confirmation"
+  },
+  {
+    "id": "email_1185",
+    "complaint_id": "JANAI-64562",
+    "to": "electricity@examplecity.gov.in",
+    "subject": "New Complaint: Electricity",
+    "body": "Complaint Description:\n\nno electricity in my area\n\nTo Whom It May Concern,\n\nI am writing to report a electricity problem that requires your immediate attention in our locality.\n\nIssue Details:\n- Category: Electricity\n- Description: no electricity in my area\n- Location: 67, raj nagar, advocate colony , PIN: 244221\n- Region: Delhi\n\nPersonal Information:\n- Name: Deepanshi Choudhary\n- Contact: 7906853153\n- Email: deepanshichoudhary03@gmail.com\n\nThis issue is affecting the daily lives of residents in our area and requires prompt action from your department. I would appreciate if you could look into this issue and take appropriate action as soon as possible.\n\nThank you for taking the time to address this concern.\n\nThank you,\nDeepanshi Choudhary\n7906853153",
+    "timestamp": "2025-08-07T22:01:08.020987",
+    "status": "sent",
+    "type": "complaint_notification"
+  },
+  {
+    "id": "email_7115",
+    "complaint_id": "JANAI-64562",
+    "to": "deepanshichoudhary03@gmail.com",
+    "subject": "Complaint Confirmation: JANAI-64562",
+    "body": "Your complaint has been received successfully.\n\nTracking ID: JANAI-64562\nCategory: Electricity\nDescription: no electricity in my area\n\nOur team will process your complaint shortly.",
+    "timestamp": "2025-08-07T22:01:23.999108",
+    "status": "sent",
+    "type": "confirmation"
+  },
+  {
+    "id": "email_2066",
+    "complaint_id": "JANAI-96000",
+    "to": "dimplebhon910@gmail.com",
+    "subject": "New Complaint: Garbage",
+    "body": "Complaint Description:\n\ngarbage issues\n\nTo Whom It May Concern,\n\nI am writing to report a garbage management issue that requires your immediate attention in our neighborhood.\n\nIssue Details:\n- Category: Garbage\n- Description: garbage issues\n- Location: 67, raj nagar, advocate colony , PIN: 244221\n- Region: Delhi\n\nPersonal Information:\n- Name: Deepanshi Choudhary\n- Contact: 7906853153\n- Email: deepanshichoudhary03@gmail.com\n\nThis problem is impacting the quality of life for residents and requires urgent attention. I would appreciate if you could look into this issue and take appropriate action as soon as possible.\n\nThank you for your attention to this issue.\n\nThank you,\nDeepanshi Choudhary\n7906853153",
+    "timestamp": "2025-08-07T22:05:47.752873",
+    "status": "sent",
+    "type": "complaint_notification"
+  },
+  {
+    "id": "email_3792",
+    "complaint_id": "JANAI-96000",
+    "to": "deepanshichoudhary03@gmail.com",
+    "subject": "Complaint Confirmation: JANAI-96000",
+    "body": "Your complaint has been received successfully.\n\nTracking ID: JANAI-96000\nCategory: Garbage\nDescription: garbage issues\n\nOur team will process your complaint shortly.",
+    "timestamp": "2025-08-07T22:05:56.585839",
+    "status": "sent",
+    "type": "confirmation"
+  },
+  {
+    "id": "email_2811",
+    "complaint_id": "JANAI-74706",
+    "to": "garbage@examplecity.gov.in",
+    "subject": "New Complaint: Garbage",
+    "body": "Complaint Description:\n\ngarbage issue near my house \n\nDear Garbage Department,\n\nI am writing to report a garbage management issue that calls for immediate resolution in our neighborhood.\n\nIssue Details:\n- Category: Garbage\n- Description: garbage issue near my house \n- Location: 47, raj nagar, advocate colony , PIN: 244221\n- Region: Delhi\n\nPersonal Information:\n- Name: Deepanshi Choudhary\n- Contact: 7906853153\n- Email: deepanshichoudhary03@gmail.com\n\nThe situation is causing significant inconvenience to the local community and needs immediate resolution. I hope you will give this issue the attention it deserves and resolve it quickly.\n\nI look forward to your response and action on this matter.\nThanking you,\nYours faithfully,\nDeepanshi Choudhary\n7906853153",
+    "timestamp": "2025-08-08T07:10:09.012349",
+    "status": "sent",
+    "type": "complaint_notification"
+  },
+  {
+    "id": "email_1215",
+    "complaint_id": "JANAI-74706",
+    "to": "deepanshichoudhary03@gmail.com",
+    "subject": "Complaint Confirmation: JANAI-74706",
+    "body": "Your complaint has been received successfully.\n\nTracking ID: JANAI-74706\nCategory: Garbage\nDescription: garbage issue near my house \n\nOur team will process your complaint shortly.",
+    "timestamp": "2025-08-08T07:10:12.760823",
+    "status": "sent",
+    "type": "confirmation"
+  },
+  {
+    "id": "email_2127",
+    "complaint_id": "JANAI-47913",
+    "to": "roads@examplecity.gov.in",
+    "subject": "New Complaint: Roads",
+    "body": "Complaint Description:\n\n \u092e\u0947\u0930\u0947 \u0918\u0930 \u0915\u0947 \u092a\u093e\u0938 \u0915\u0940 \u0938\u095c\u0915 \u091f\u0942\u091f\u0940 \u0939\u0941\u0908 \u0939\u0948\u0964\n\nTo Whom It May Concern,\n\nI am writing to bring to your notice a roads issue that needs urgent intervention in our area.\n\nIssue Details:\n- Category: Roads\n- Description:  \u092e\u0947\u0930\u0947 \u0918\u0930 \u0915\u0947 \u092a\u093e\u0938 \u0915\u0940 \u0938\u095c\u0915 \u091f\u0942\u091f\u0940 \u0939\u0941\u0908 \u0939\u0948\u0964\n- Location: 47, raj nagar, advocate colony , PIN: 244221\n- Region: Delhi\n\nPersonal Information:\n- Name: Deepanshi Choudhary\n- Contact: 7906853153\n- Email: deepanshichoudhary03@gmail.com\n\nThe issue is creating difficulties for the neighborhood and needs prompt intervention. I kindly request you to investigate this matter and take necessary steps to resolve it at the earliest.\n\nI appreciate your time and consideration in this matter.\n\nThank you,\nDeepanshi Choudhary\n7906853153",
+    "timestamp": "2025-08-08T07:13:49.264265",
+    "status": "sent",
+    "type": "complaint_notification"
+  },
+  {
+    "id": "email_2529",
+    "complaint_id": "JANAI-47913",
+    "to": "deepanshichoudhary03@gmail.com",
+    "subject": "Complaint Confirmation: JANAI-47913",
+    "body": "Your complaint has been received successfully.\n\nTracking ID: JANAI-47913\nCategory: Roads\nDescription:  \u092e\u0947\u0930\u0947 \u0918\u0930 \u0915\u0947 \u092a\u093e\u0938 \u0915\u0940 \u0938\u095c\u0915 \u091f\u0942\u091f\u0940 \u0939\u0941\u0908 \u0939\u0948\u0964\n\nOur team will process your complaint shortly.",
+    "timestamp": "2025-08-08T07:13:53.443097",
+    "status": "sent",
+    "type": "confirmation"
+  },
+  {
+    "id": "email_6603",
+    "complaint_id": "JANAI-35695",
+    "to": "garbage@examplecity.gov.in",
+    "subject": "New Complaint: Garbage",
+    "body": "Complaint Description:\n\ngarbage issue in our area  Garbage issue in our area.\n\nTo Whom It May Concern,\n\nI am writing to report a garbage management issue that needs urgent intervention in our neighborhood.\n\nIssue Details:\n- Category: Garbage\n- Description: garbage issue in our area  Garbage issue in our area.\n- Location: 32, Civil Lines , prayagarj, PIN: 211015\n- Region: Uttar Pradesh\n\nPersonal Information:\n- Name: Deepanshi Choudhary\n- Contact: 7906853153\n- Email: deepanshichoudhary03@gmail.com\n\nThe situation is causing significant inconvenience to the local community and needs immediate resolution. I trust you will investigate this matter thoroughly and implement a solution without delay.\n\nThank you for taking the time to address this concern.\n\nRespectfully yours,\nDeepanshi Choudhary\n7906853153",
+    "timestamp": "2025-08-08T08:52:31.824695",
+    "status": "sent",
+    "type": "complaint_notification"
+  },
+  {
+    "id": "email_2312",
+    "complaint_id": "JANAI-35695",
+    "to": "deepanshichoudhary03@gmail.com",
+    "subject": "Complaint Confirmation: JANAI-35695",
+    "body": "Your complaint has been received successfully.\n\nTracking ID: JANAI-35695\nCategory: Garbage\nDescription: garbage issue in our area  Garbage issue in our area.\n\nOur team will process your complaint shortly.",
+    "timestamp": "2025-08-08T08:52:36.428254",
+    "status": "sent",
+    "type": "confirmation"
+  },
+  {
+    "id": "email_3530",
+    "complaint_id": "JANAI-27340",
+    "to": "anutosh_yadav@yahoo.com",
+    "subject": "New Complaint: Garbage",
+    "body": "Complaint Description:\n\ngarbage There is a garbage issue near my home and I wanted to be resolved at the earliest. It converted everything and then for example the category chooses garbage Uttar Pradesh. Generate the aircraft.\n\nTo Whom It May Concern,\n\nI am writing to report a garbage management issue that calls for immediate resolution in our neighborhood.\n\nIssue Details:\n- Category: Garbage\n- Description: garbage There is a garbage issue near my home and I wanted to be resolved at the earliest.\n- Location: 32, Civil Lines , prayagarj, PIN: 211015\n- Region: Uttar Pradesh\n\nPersonal Information:\n- Name: vijay\n- Contact: 7972920270\n- Email: mohitgate871@gmail.com\n\nThe issue is creating difficulties for the neighborhood and needs prompt intervention. I trust you will investigate this matter thoroughly and implement a solution without delay.\n\nThank you for your attention to this issue.\n\nThank you,\nvijay\n7972920270",
+    "timestamp": "2025-08-08T12:26:38.004560",
+    "status": "sent",
+    "type": "complaint_notification"
+  },
+  {
+    "id": "email_2817",
+    "complaint_id": "JANAI-27340",
+    "to": "mohitgate871@gmail.com",
+    "subject": "Complaint Confirmation: JANAI-27340",
+    "body": "Your complaint has been received successfully.\n\nTracking ID: JANAI-27340\nCategory: Garbage\nDescription: garbage There is a garbage issue near my home and I wanted to be resolved at the earliest. It converted everything and then for example the category chooses garbage Uttar Pradesh. Generate the aircraft.\n\nOur team will process your complaint shortly.",
+    "timestamp": "2025-08-08T12:26:43.122884",
+    "status": "sent",
+    "type": "confirmation"
+  }
+]

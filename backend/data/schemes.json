@@ -1,0 +1,455 @@
+{
+  "schemes": [
+    {
+      "level": "Central",
+      "state": null,
+      "schemeName": "Jal Jeevan Mission (JJM)",
+      "category": "Drinking Water",
+      "description": "Aims to provide safe and adequate drinking water through individual household tap connections to all households in rural India.",
+      "access": [
+        {
+          "type": "Portal",
+          "value": "https://jaljeevanmission.gov.in/"
+        },
+        {
+          "type": "Helpline",
+          "value": "1800-112-457"
+        },
+        {
+          "type": "Email",
+          "value": "support@jaljeevanmission.gov.in"
+        }
+      ]
+    },
+    {
+      "level": "Central",
+      "state": null,
+      "schemeName": "Swachh Bharat Mission / App (Urban)",
+      "category": "Urban Sanitation",
+      "description": "Provides support for building toilets, solid waste management, and promoting cleanliness in urban areas.",
+      "access": [
+        {
+          "type": "Portal",
+          "value": "https://sbm.gov.in/sbm_urban/"
+        },
+        {
+          "type": "Helpline",
+          "value": "1969"
+        }
+      ]
+    },
+    {
+      "level": "Central",
+      "state": null,
+      "schemeName": "Pradhan Mantri Gram Sadak Yojana (PMGSY) / Meri Sadak App",
+      "category": "Rural Roads",
+      "description": "Provides all-weather road connectivity to unconnected habitations in rural areas.",
+      "access": [
+        {
+          "type": "Portal",
+          "value": "https://omms.nic.in/"
+        },
+        {
+          "type": "Helpline",
+          "value": "1800-11-8007 (NHAI)"
+        },
+        {
+          "type": "Email",
+          "value": "pmgsy@nic.in"
+        }
+      ]
+    },
+    {
+      "level": "Central",
+      "state": null,
+      "schemeName": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PMJAY)",
+      "category": "Health Insurance",
+      "description": "Provides health insurance coverage of up to ₹5 lakh per family per year for secondary and tertiary care hospitalization.",
+      "access": [
+        {
+          "type": "Portal",
+          "value": "https://pmjay.gov.in/"
+        },
+        {
+          "type": "Helpline",
+          "value": "14555"
+        }
+      ]
+    },
+    {
+      "level": "Central",
+      "state": null,
+      "schemeName": "Pradhan Mantri Matru Vandana Yojana (PMMVY)",
+      "category": "Maternity Benefits",
+      "description": "Provides a cash incentive of ₹5,000 for the first live childbirth to partially compensate for wage loss.",
+      "access": [
+        {
+          "type": "Portal",
+          "value": "https://pmmvy.wcd.nic.in/"
+        },
+        {
+          "type": "Helpline",
+          "value": "1091 (Women and Child Development Helpline)"
+        }
+      ]
+    },
+    {
+      "level": "Central",
+      "state": null,
+      "schemeName": "National Food Security Act (NFSA) / Public Distribution System (PDS)",
+      "category": "Food Security",
+      "description": "Provides subsidized food grains through the PDS. Includes services like ration card applications and modifications.",
+      "access": [
+        {
+          "type": "Portal",
+          "value": "https://nfsa.gov.in/"
+        },
+        {
+          "type": "Helpline",
+          "value": "1967 (State-specific helplines)"
+        }
+      ]
+    },
+    {
+      "level": "Central",
+      "state": null,
+      "schemeName": "National Social Assistance Programme (NSAP) for Elderly, Disabled, Widows",
+      "category": "Social Security Pensions",
+      "description": "Provides regular cash pensions to the elderly, widows, and persons with disabilities from BPL households.",
+      "access": [
+        {
+          "type": "Portal",
+          "value": "https://nsap.nic.in/"
+        },
+        {
+          "type": "Email",
+          "value": "info@nsap.nic.in"
+        }
+      ]
+    },
+    {
+      "level": "Central",
+      "state": null,
+      "schemeName": "Beti Bachao Beti Padhao",
+      "category": "Girl Child Education",
+      "description": "Aims to address the declining Child Sex Ratio (CSR) and related issues of women empowerment over a life-cycle continuum.",
+      "access": [
+        {
+          "type": "Portal",
+          "value": "https://wcd.nic.in/bbbp-schemes"
+        },
+        {
+          "type": "Phone",
+          "value": "011-23386423"
+        },
+        {
+          "type": "Email",
+          "value": "nic-mwcd@nic.in"
+        }
+      ]
+    },
+    {
+      "level": "Central",
+      "state": null,
+      "schemeName": "Sukanya Samriddhi Yojana (SSY)",
+      "category": "Girl Child Savings",
+      "description": "A small deposit scheme for the girl child, as part of the 'Beti Bachao Beti Padhao' campaign, to secure her future.",
+      "access": [
+        {
+          "type": "Portal",
+          "value": "https://www.indiapost.gov.in/Financial/Pages/Content/sukanya-samriddhi-yojana.aspx"
+        },
+        {
+          "type": "Contact",
+          "value": "Contact local Post Office or authorized bank branch."
+        }
+      ]
+    },
+    {
+      "level": "Central",
+      "state": null,
+      "schemeName": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+      "category": "Clean Cooking Gas Access",
+      "description": "Provides free LPG connections to women from below poverty line (BPL) households.",
+      "access": [
+        {
+          "type": "Portal",
+          "value": "https://www.pmuy.gov.in/"
+        },
+        {
+          "type": "Helpline",
+          "value": "1906 (LPG Emergency Helpline)"
+        }
+      ]
+    },
+    {
+      "level": "Central",
+      "state": null,
+      "schemeName": "Atal Pension Yojana (APY) / Jeevan Pramaan",
+      "category": "Pension for Workers",
+      "description": "A pension scheme for workers in the unorganized sector. Jeevan Pramaan is a digital life certificate for pensioners.",
+      "access": [
+        {
+          "type": "Portal",
+          "value": "https://www.npscra.nsdl.co.in/scheme-details.php"
+        },
+        {
+          "type": "Helpline",
+          "value": "1800-110-069"
+        }
+      ]
+    },
+    {
+      "level": "Central",
+      "state": null,
+      "schemeName": "PM Kisan Samman Nidhi",
+      "category": "Agricultural Support",
+      "description": "Provides a direct cash transfer of ₹6,000 per year in three installments to eligible landholding farmer families.",
+      "access": [
+        {
+          "type": "Portal",
+          "value": "https://pmkisan.gov.in/"
+        },
+        {
+          "type": "Helpline",
+          "value": "155261 / 1800-115-526"
+        }
+      ]
+    },
+    {
+      "level": "Central",
+      "state": null,
+      "schemeName": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+      "category": "Crop Insurance",
+      "description": "Provides comprehensive insurance coverage against crop failure, helping to stabilize the income of farmers.",
+      "access": [
+        {
+          "type": "Portal",
+          "value": "https://pmfby.gov.in/"
+        },
+        {
+          "type": "Helpline",
+          "value": "1800-180-1111"
+        }
+      ]
+    },
+    {
+      "level": "Central",
+      "state": null,
+      "schemeName": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+      "category": "Rural Employment",
+      "description": "Guarantees 100 days of wage employment in a financial year to a rural household whose adult members volunteer to do unskilled manual work.",
+      "access": [
+        {
+          "type": "Portal",
+          "value": "https://nrega.nic.in/"
+        },
+        {
+          "type": "Helpline",
+          "value": "1800-111-555"
+        }
+      ]
+    },
+    {
+      "level": "Central",
+      "state": null,
+      "schemeName": "Pradhan Mantri Awas Yojana (PMAY) - Urban & Gramin",
+      "category": "Housing",
+      "description": "Provides financial assistance to eligible families in urban and rural areas for the construction of a 'pucca' house.",
+      "access": [
+        {
+          "type": "Portal",
+          "value": "https://pmay-urban.gov.in/"
+        },
+        {
+          "type": "Helpline",
+          "value": "1800-11-3377 (Urban)"
+        },
+        {
+          "type": "Helpline",
+          "value": "1800-11-6446 (Gramin)"
+        }
+      ]
+    },
+    {
+      "level": "Central",
+      "state": null,
+      "schemeName": "Skill India Mission / Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+      "category": "Skill Development",
+      "description": "Aims to provide outcome-based skill training to Indian youth to enable them to take up industry-relevant jobs.",
+      "access": [
+        {
+          "type": "Portal",
+          "value": "https://www.skillindia.gov.in/"
+        },
+        {
+          "type": "Helpline",
+          "value": "088000-55555"
+        }
+      ]
+    },
+    {
+      "level": "Central",
+      "state": null,
+      "schemeName": "Startup India Initiative",
+      "category": "Entrepreneurship Support",
+      "description": "A flagship initiative to build a strong eco-system for nurturing innovation and Startups in the country.",
+      "access": [
+        {
+          "type": "Portal",
+          "value": "https://www.startupindia.gov.in/"
+        },
+        {
+          "type": "Helpline",
+          "value": "1800-115-565"
+        },
+        {
+          "type": "Email",
+          "value": "dipp-startups@nic.in"
+        }
+      ]
+    },
+    {
+      "level": "Central",
+      "state": null,
+      "schemeName": "National Scholarship Portal (NSP)",
+      "category": "Education & Scholarships",
+      "description": "A single portal for students to apply for various scholarship schemes offered by central and state governments.",
+      "access": [
+        {
+          "type": "Portal",
+          "value": "https://scholarships.gov.in/"
+        },
+        {
+          "type": "Helpline",
+          "value": "0120-6619540"
+        },
+        {
+          "type": "Email",
+          "value": "helpdesk@nsp.gov.in"
+        }
+      ]
+    },
+    {
+      "level": "State",
+      "state": "Haryana",
+      "schemeName": "Mukhyamantri Parivar Samridhi Yojana (MMPSY)",
+      "category": "Social Security",
+      "description": "₹6000/year to eligible families for social security & pension.",
+      "access": [
+        {
+          "type": "Portal",
+          "value": "https://cm-psy.haryana.gov.in"
+        },
+        {
+          "type": "Helpline",
+          "value": "1800-2000-023"
+        }
+      ]
+    },
+    {
+      "level": "State",
+      "state": "Haryana",
+      "schemeName": "Old Age / Widow / Disability Pension",
+      "category": "Social Security",
+      "description": "₹2750/month for eligible seniors, widows, disabled.",
+      "access": [
+        {
+          "type": "Portal",
+          "value": "https://pension.socialjusticehry.gov.in"
+        }
+      ]
+    },
+    {
+      "level": "State",
+      "state": "Uttar Pradesh",
+      "schemeName": "Kanya Sumangala Yojana",
+      "category": "Women / Education",
+      "description": "₹15,000 in total benefit for a girl child's growth.",
+      "access": [
+        {
+          "type": "Portal",
+          "value": "https://mksy.up.gov.in"
+        }
+      ]
+    },
+    {
+      "level": "State",
+      "state": "Uttar Pradesh",
+      "schemeName": "UP Old Age Pension (Vridhavastha Pension)",
+      "category": "Senior Citizens",
+      "description": "₹1,000/month to senior citizens (BPL).",
+      "access": [
+        {
+          "type": "Portal",
+          "value": "https://sspy-up.gov.in"
+        }
+      ]
+    },
+    {
+      "level": "State",
+      "state": "Maharashtra",
+      "schemeName": "Mahatma Phule Jan Arogya Yojana (MPJAY)",
+      "category": "Health Insurance",
+      "description": "State-level health insurance scheme.",
+      "access": [
+        {
+          "type": "Portal",
+          "value": "https://www.jeevandayee.gov.in"
+        }
+      ]
+    },
+    {
+      "level": "State",
+      "state": "Maharashtra",
+      "schemeName": "Sanjay Gandhi Niradhar Yojana",
+      "category": "Pension / Disability",
+      "description": "Pension scheme for destitute persons.",
+      "access": [
+        {
+          "type": "Portal",
+          "value": "https://sjsa.maharashtra.gov.in"
+        }
+      ]
+    },
+    {
+      "level": "State",
+      "state": "Punjab",
+      "schemeName": "Punjab Skill Development Mission",
+      "category": "Skill Training",
+      "description": "State-level skill training initiative.",
+      "access": [
+        {
+          "type": "Portal",
+          "value": "psdm.gov.in"
+        }
+      ]
+    },
+    {
+      "level": "State",
+      "state": "Rajasthan",
+      "schemeName": "Mukhyamantri Chiranjeevi Swasthya Bima Yojana",
+      "category": "Health Insurance",
+      "description": "Health insurance for all families with ₹25 lakh free health cover.",
+      "access": [
+        {
+          "type": "Portal",
+          "value": "chiranjeevi.rajasthan.gov.in"
+        }
+      ]
+    },
+    {
+      "level": "State",
+      "state": "Rajasthan",
+      "schemeName": "Social Pension Schemes",
+      "category": "Social Security",
+      "description": "Pension for old age, widow, disabled.",
+      "access": [
+        {
+          "type": "Portal",
+          "value": "ssp.rajasthan.gov.in"
+        }
+      ]
+    }
+  ]
+}

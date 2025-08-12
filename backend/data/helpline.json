@@ -1,0 +1,265 @@
+{
+    "helplines": [
+      {
+        "level": "Central",
+        "state": null,
+        "service": "Emergency Response Support System (ERSS)",
+        "number": "112",
+        "notes": "All-in-one emergency number for Police, Fire, and Ambulance services across India",
+        "website": "https://www.112.gov.in/",
+        "email": null
+      },
+      {
+        "level": "Central",
+        "state": null,
+        "service": "National Women Helpline",
+        "number": "181 / 1091",
+        "notes": "24/7 emergency and non-emergency response to women affected by violence",
+        "website": "https://ncw.nic.in/",
+        "email": "helpline-ncw@nic.in"
+      },
+      {
+        "level": "Central",
+        "state": null,
+        "service": "Childline India",
+        "number": "1098",
+        "notes": "Helpline for children in distress, provides support for any child in need of care and protection",
+        "website": "https://www.childlineindia.org/",
+        "email": "dial1098@childlineindia.org.in"
+      },
+      {
+        "level": "Central",
+        "state": null,
+        "service": "National Health Helpline",
+        "number": "1075",
+        "notes": "Provides guidance on health-related issues, vaccination information, and access to health services",
+        "website": "https://www.mohfw.gov.in/",
+        "email": "ncov2019@gov.in"
+      },
+      {
+        "level": "Central",
+        "state": null,
+        "service": "National Senior Citizen Helpline (Elder Line)",
+        "number": "14567",
+        "notes": "Provides information, guidance, emotional support for senior citizens facing abuse or other issues",
+        "website": "https://elderline.sosvillage.in/",
+        "email": "helpline.nhsce@gmail.com"
+      },
+      {
+        "level": "Central",
+        "state": null,
+        "service": "KIRAN Mental Health Rehabilitation Helpline",
+        "number": "1800-599-0019",
+        "notes": "24/7 toll-free helpline for anxiety, stress, depression, suicidal thoughts, and mental health concerns",
+        "website": "https://main.icmr.gov.in/",
+        "email": null
+      },
+      {
+        "level": "Central",
+        "state": null,
+        "service": "National Cyber Crime Reporting Portal",
+        "number": "1930",
+        "notes": "For reporting cybercrime, financial fraud, social media harassment, hacking, etc.",
+        "website": "https://cybercrime.gov.in/",
+        "email": null
+      },
+      {
+        "level": "Central",
+        "state": null,
+        "service": "National Consumer Helpline",
+        "number": "1915 / 1800-11-4000",
+        "notes": "For consumers to register grievances related to defective products, poor services, or unfair trade practices",
+        "website": "https://consumerhelpline.gov.in/",
+        "email": null
+      },
+      {
+        "level": "Central",
+        "state": null,
+        "service": "Kisan Call Centre (for Farmers)",
+        "number": "1800-180-1551",
+        "notes": "Expert advice to farmers on agriculture, horticulture, animal husbandry in local language",
+        "website": "http://mkisan.gov.in/",
+        "email": "kcc-agri@gov.in"
+      },
+      {
+        "level": "Central",
+        "state": null,
+        "service": "CPGRAMS",
+        "number": "1800-11-8000",
+        "notes": "Citizen Grievance Redressal (all departments)",
+        "website": "https://pgportal.gov.in/",
+        "email": null
+      },
+      {
+        "level": "Central",
+        "state": null,
+        "service": "Rail Madad",
+        "number": "139",
+        "notes": "Rail complaints and assistance",
+        "website": "https://indianrailways.gov.in/",
+        "email": null
+      },
+      {
+        "level": "Central",
+        "state": null,
+        "service": "Ayushman Bharat (PMJAY)",
+        "number": "14555",
+        "notes": "Health insurance coverage up to ₹5 lakh per family per year",
+        "website": "https://pmjay.gov.in/",
+        "email": null
+      },
+      {
+        "level": "Central",
+        "state": null,
+        "service": "E-SHRAM Portal",
+        "number": "14434",
+        "notes": "Unorganised workers registration and benefits",
+        "website": "https://eshram.gov.in/",
+        "email": null
+      },
+      {
+        "level": "State",
+        "state": "Uttar Pradesh",
+        "service": "UP CM Helpline (Jansunwai - Samadhan)",
+        "number": "1076",
+        "notes": "Centralized grievance redressal system for citizens of Uttar Pradesh",
+        "website": "http://jansunwai.up.nic.in/",
+        "email": null
+      },
+      {
+        "level": "State",
+        "state": "Uttar Pradesh",
+        "service": "Women and Child Power Line (UP Police)",
+        "number": "1090",
+        "notes": "24/7 helpline by UP Police specifically for women and children facing harassment or crime",
+        "website": "https://www.up.gov.in/en/page/important-links/women-security",
+        "email": null
+      },
+      {
+        "level": "State",
+        "state": "Uttar Pradesh",
+        "service": "UP Power Corporation Ltd. (Electricity)",
+        "number": "1912",
+        "notes": "Electricity-related complaints like power outages, billing issues, or safety concerns",
+        "website": "https://www.upenergy.in/",
+        "email": "cmd@uppcl.org"
+      },
+      {
+        "level": "State",
+        "state": "Uttar Pradesh",
+        "service": "UP State Road Transport Corporation (UPSRTC)",
+        "number": "1800-180-2877",
+        "notes": "Inquiries and complaints related to Uttar Pradesh government bus services",
+        "website": "https://www.upsrtc.com/en",
+        "email": "helpline.upsrtc@gmail.com"
+      },
+      {
+        "level": "State",
+        "state": "Haryana",
+        "service": "CM Window (Jan Sahayak)",
+        "number": "1800-180-2133",
+        "notes": "General Public Grievances",
+        "website": "https://cmwindow.haryana.gov.in/",
+        "email": null
+      },
+      {
+        "level": "State",
+        "state": "Haryana",
+        "service": "Electricity (UHBVN)",
+        "number": "1800-180-1550",
+        "notes": "Electricity Outages and complaints",
+        "website": "https://www.uhbvn.org.in/",
+        "email": null
+      },
+      {
+        "level": "State",
+        "state": "Haryana",
+        "service": "Police / Emergency",
+        "number": "112",
+        "notes": "Emergency response for police, fire, and ambulance",
+        "website": null,
+        "email": null
+      },
+      {
+        "level": "State",
+        "state": "Haryana",
+        "service": "Women Helpline",
+        "number": "1091",
+        "notes": "Women safety and support helpline",
+        "website": null,
+        "email": null
+      },
+      {
+        "level": "State",
+        "state": "Haryana",
+        "service": "Ration / Food Distribution",
+        "number": "1967 / 1800-180-2087",
+        "notes": "Food security and ration card related issues",
+        "website": "https://haryanafood.gov.in/",
+        "email": null
+      },
+      {
+        "level": "State",
+        "state": "Maharashtra",
+        "service": "Electricity (MSEDCL)",
+        "number": "1800-102-3435",
+        "notes": "Electricity complaints and support",
+        "website": "https://www.mahadiscom.in/",
+        "email": null
+      },
+      {
+        "level": "State",
+        "state": "Maharashtra",
+        "service": "Ration / Food Supply",
+        "number": "1800-22-4950",
+        "notes": "Toll-Free food security helpline",
+        "website": "https://mahafood.gov.in/",
+        "email": null
+      },
+      {
+        "level": "State",
+        "state": "Punjab",
+        "service": "Electricity (PSPCL)",
+        "number": "1912",
+        "notes": "Electricity complaints and support",
+        "website": "https://www.pspcl.in/",
+        "email": null
+      },
+      {
+        "level": "State",
+        "state": "Punjab",
+        "service": "Women Helpline",
+        "number": "181",
+        "notes": "24x7 women safety helpline",
+        "website": null,
+        "email": null
+      },
+      {
+        "level": "State",
+        "state": "Rajasthan",
+        "service": "Rajasthan Sampark",
+        "number": "181",
+        "notes": "Toll-Free general grievance helpline",
+        "website": "https://sampark.rajasthan.gov.in/",
+        "email": null
+      },
+      {
+        "level": "State",
+        "state": "Rajasthan",
+        "service": "Water Supply (PHED)",
+        "number": "1800-180-6125",
+        "notes": "PHED Complaint No. for water supply issues",
+        "website": "https://phed.rajasthan.gov.in/",
+        "email": null
+      },
+      {
+        "level": "State",
+        "state": "Rajasthan",
+        "service": "Women/Child Protection",
+        "number": "1091 / 181",
+        "notes": "Mahila Suraksha Helpline for women and child protection",
+        "website": null,
+        "email": null
+      }
+    ]
+  }
