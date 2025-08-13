@@ -7,24 +7,28 @@ const Dashboard = ({ user }) => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    const fetchRecentComplaints = async () => {
-      try {
-        const response = await complaintAPI.getComplaintStatus(user.id);
-        setRecentComplaints(response.complaints.slice(0, 3)); // Show only 3 most recent
-      } catch (error) {
-        console.error('Error fetching complaints:', error);
-      } finally {
-        setLoading(false);
-      }
-    };
+    if (user) {
+      const fetchRecentComplaints = async () => {
+        try {
+          const response = await complaintAPI.getComplaintStatus(user.id);
+          setRecentComplaints(response.complaints.slice(0, 3)); // Show only 3 most recent
+        } catch (error) {
+          console.error('Error fetching complaints:', error);
+        } finally {
+          setLoading(false);
+        }
+      };
 
-    fetchRecentComplaints();
-  }, [user.id]);
+      fetchRecentComplaints();
+    } else {
+      setLoading(false);
+    }
+  }, [user]);
 
   return (
     <div className="container animate-fade-in">
       <div className="page-header animate-slide-in-left">
-        <h1 className="page-title">Welcome, {user.fullName}!</h1>
+        <h1 className="page-title">Welcome{user ? `, ${user.fullName}` : ''}!</h1>
         <p className="page-subtitle">Empowering citizens through AI-driven civic engagement</p>
       </div>
 
@@ -103,42 +107,62 @@ const Dashboard = ({ user }) => {
         </div>
 
         {/* Recent Activity Section */}
-        <div className="content-section">
-          <h2 className="section-title">Recent Activity</h2>
-          <div className="activity-section">
-            {loading ? (
-              <div className="loading-state">
-                <p>Loading your recent complaints...</p>
-              </div>
-            ) : recentComplaints.length > 0 ? (
-              <div className="complaints-list">
-                {recentComplaints.map((complaint) => (
-                  <div key={complaint.id} className="complaint-card">
-                    <div className="complaint-header">
-                      <h4 className="complaint-category">{complaint.category}</h4>
-                      <span className={`status-badge status-${complaint.status.toLowerCase()}`}>
-                        {complaint.status}
-                      </span>
+        {user ? (
+          <div className="content-section">
+            <h2 className="section-title">Recent Activity</h2>
+            <div className="activity-section">
+              {loading ? (
+                <div className="loading-state">
+                  <p>Loading your recent complaints...</p>
+                </div>
+              ) : recentComplaints.length > 0 ? (
+                <div className="complaints-list">
+                  {recentComplaints.map((complaint) => (
+                    <div key={complaint.id} className="complaint-card">
+                      <div className="complaint-header">
+                        <h4 className="complaint-category">{complaint.category}</h4>
+                        <span className={`status-badge status-${complaint.status.toLowerCase()}`}>
+                          {complaint.status}
+                        </span>
+                      </div>
+                      <p className="complaint-description">{complaint.description}</p>
+                      <div className="complaint-footer">
+                        <span className="complaint-date">{complaint.date}</span>
+                        <span className="complaint-id">{complaint.id}</span>
+                      </div>
                     </div>
-                    <p className="complaint-description">{complaint.description}</p>
-                    <div className="complaint-footer">
-                      <span className="complaint-date">{complaint.date}</span>
-                      <span className="complaint-id">{complaint.id}</span>
-                    </div>
-                  </div>
-                ))}
-              </div>
-            ) : (
-              <div className="empty-state">
-                <div className="empty-icon">📝</div>
-                <h3 className="empty-title">No complaints yet</h3>
-                <p className="empty-text">
-                  Start by filing your first complaint to track civic issues in your area.
-                </p>
-              </div>
-            )}
+                  ))}
+                </div>
+              ) : (
+                <div className="empty-state">
+                  <div className="empty-icon">📝</div>
+                  <h3 className="empty-title">No complaints yet</h3>
+                  <p className="empty-text">
+                    Start by filing your first complaint to track civic issues in your area.
+                  </p>
+                </div>
+              )}
+            </div>
           </div>
-        </div>
+        ) : (
+          <div className="content-section">
+            <h2 className="section-title">Get Started</h2>
+            <div className="cta-section">
+              <div className="cta-card">
+                <div className="cta-icon">🚀</div>
+                <h3 className="cta-title">Ready to make a difference?</h3>
+                <p className="cta-text">
+                  Join thousands of citizens who are actively participating in civic governance. 
+                  Create an account to file complaints, track progress, and discover government schemes.
+                </p>
+                <div className="cta-buttons">
+                  <a href="/register" className="btn btn-primary">Create Account</a>
+                  <a href="/login" className="btn btn-secondary">Sign In</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        )}
       </div>
     </div>
   );

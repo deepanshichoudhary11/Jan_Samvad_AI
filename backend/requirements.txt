@@ -1,0 +1,6 @@
+ Flask==2.3.3
+Flask-CORS==4.0.0
+Flask-Mail==0.9.1
+python-dotenv==1.0.1
+requests==2.32.4
+google-generativeai==0.3.2

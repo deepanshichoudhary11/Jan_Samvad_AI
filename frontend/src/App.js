@@ -54,7 +54,7 @@ function App() {
           <Routes>
             <Route 
               path="/" 
-              element={user ? <Dashboard user={user} /> : <Navigate to="/login" />} 
+              element={<Dashboard user={user} />} 
             />
             <Route 
               path="/file-complaint" 
@@ -70,7 +70,7 @@ function App() {
             />
             <Route 
               path="/helpline" 
-              element={user ? <Helpline user={user} /> : <Navigate to="/login" />} 
+              element={<Helpline user={user} />} 
             />
             <Route 
               path="/login" 
