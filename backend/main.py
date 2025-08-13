@@ -14,8 +14,8 @@ from api.email_service import init_mail
 # Load environment variables
 load_dotenv()
 
-# Point static_folder to React build
-app = Flask(__name__, static_folder='build')
+# Point static_folder to React build folder inside backend
+app = Flask(__name__, static_folder='frontend_build')
 CORS(app)
 
 # Initialize email service with error handling
